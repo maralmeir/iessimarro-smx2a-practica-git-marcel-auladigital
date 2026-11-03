@@ -1,0 +1,4 @@
+# Ignora els fitxers de registre
+*.log
+# Ignora la carpeta d'esborranys
+esborranys/
